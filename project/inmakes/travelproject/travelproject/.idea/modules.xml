@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../project1/inmakes/taskproject/pgmtask/.idea/pgmtask.iml" filepath="$PROJECT_DIR$/../../../../project1/inmakes/taskproject/pgmtask/.idea/pgmtask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/travelproject.iml" filepath="$PROJECT_DIR$/.idea/travelproject.iml" />
+    </modules>
+  </component>
+</project>
